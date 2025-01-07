@@ -1,6 +1,8 @@
 # StockPredictor: Nasdaq Stock Price Prediction & Analysis
 
-![Nasdaq Logo](https://upload.wikimedia.org/wikipedia/commons/7/70/NASDAQ_Logo.png)  
+![Nasdaq Logo](https://m.foolcdn.com/media/dubs/original_images/Nasdaq.jpg)
+
+
 *StockPredictor aims to analyze and predict the future stock prices of Nasdaq-listed companies using historical data and machine learning techniques.*
 
 ---
